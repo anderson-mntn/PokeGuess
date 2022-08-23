@@ -1,0 +1,25 @@
+
+body{
+    background-image: url(./img/bg.png);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+h1{
+    font-family: 'Pokemon Solid', sans-serif;                          
+    text-shadow: 4px 4px  black;
+    font-size: 150px;
+    width: fit-content;
+}
+.backblue{
+    background: rgb(31, 134, 65);
+    background: radial-gradient(circle, rgb(57, 121, 173) 10%, rgba(252, 70, 106, 0.041) 100%); 
+}
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid red;
+}
+.txtshadow{
+    text-shadow: white 2px ;
+}
